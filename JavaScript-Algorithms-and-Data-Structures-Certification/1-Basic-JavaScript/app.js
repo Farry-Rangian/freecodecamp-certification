@@ -1,3 +1,8 @@
+var a = 3;
+var b = 17;
+var c = 12;
+
 // Only change code below this line
-remainder = 11 % 3;
-var remainder;
+a += 12;
+b += 9;
+c += 7;
