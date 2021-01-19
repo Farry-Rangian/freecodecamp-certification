@@ -1,5 +1,8 @@
-// Setup
-var lastName = "Lovelace";
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
 
 // Only change code below this line
-var secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
+var wordBlanks = "The " + myAdjective + " " + myNoun + " " + myVerb + " " + myAdverb + ".";
+// Only change code above this line
